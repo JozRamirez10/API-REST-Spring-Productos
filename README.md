@@ -1,8 +1,8 @@
 # API REST Spring - Inventario de Productos
 
 ## Descripción
-El API representa la gestión de un inventarios de productos cumpliendo con las operaciones básicas de un CRUD.
-La información es obtenida desde una base de datos en MySQL. Además, incorporando spring-security, valida al usuario mediante un "login" y dependiendo del rol del usuario, éste puede realizar dichas tareas.
+El API representa la gestión de un inventario de productos cumpliendo con las operaciones básicas de un CRUD.
+La información es obtenida desde una base de datos en MySQL. Además, incorporando spring-security, valida al usuario mediante un "login" y dependiendo del rol del usuario, éste puede realizar solo ciertas operaciones.
 
 ## Roles de Usuarios
 
