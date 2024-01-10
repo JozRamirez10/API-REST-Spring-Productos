@@ -31,7 +31,7 @@ La información es obtenida desde una base de datos en MySQL. Además, incorpora
 
 ### /api/users [GET]
   Lista de usuarios registrados (PUBLIC)
-  <img width="869" alt="Screen Shot 2024-01-09 at 23 13 55" src="https://github.com/JozRamirez10/API-REST-Spring-Productos/assets/101752395/b186f328-c08b-4589-9f80-  5770fe2e58d3">
+  <img width="866" alt="Screen Shot 2024-01-09 at 23 36 01" src="https://github.com/JozRamirez10/API-REST-Spring-Productos/assets/101752395/5014d3cf-139a-4ba2-b92a-43d147d928e3">
 
 ### /api/users [POST]
   Crea un nuevo usuario con la posibilidad de tener el rol ADMIN (ADMIN).
@@ -62,6 +62,7 @@ La información es obtenida desde una base de datos en MySQL. Además, incorpora
   <img width="869" alt="Screen Shot 2024-01-09 at 23 32 08" src="https://github.com/JozRamirez10/API-REST-Spring-Productos/assets/101752395/4b19020b-d218-465f-ad47-6c4d8056a6c2">
   
   Producto eliminado de la base de datos:
+  
   <img width="355" alt="Screen Shot 2024-01-09 at 23 32 39" src="https://github.com/JozRamirez10/API-REST-Spring-Productos/assets/101752395/7dbdd218-1176-42e8-b573-42a046781c68">
 
 
